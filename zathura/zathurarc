@@ -1,0 +1,12 @@
+#set the page padding
+set page-padding 2
+
+set render-loading-bg "#000000"
+set render-loading-fg "#FFFFFF"
+
+set recolor-lightcolor "#282828"
+
+set statusbar-home-tilde "true"
+
+#Press Alt-r for darkmode
+map A-r recolor
