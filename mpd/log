@@ -1,0 +1,483 @@
+Nov 23 10:55 : exception: Failed to open '/home/rohit/.config/mpd/state': No such file or directory
+Nov 23 10:55 : update: added /Pulp Fiction Misirlou.mp3
+Nov 23 10:55 : update: added /Wishing Ain't No Sin (heard in trailer for Better Call SaulAMC).mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-29 - 75 Compromised Comms.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-09 - 67 The Big House.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-01 - 73 WannaCry.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-15 - 74 Mikko.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-10 - 78 Nerdcore.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-23 - 68 Triton.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-07 - 69 Human Hacker.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-28 - 64 The Athens Shadow Games.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-21 - 70 Ghost Exodus.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-12 - 65 PSYOP.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-18 - 72 Bangladesh Bank Heist.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-26 - 66 freakyclown.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-04 - 71 FDFF.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-13 - 76 Knaves Out.mp3
+Nov 23 10:55 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-27 - 77 Olympic Destroyer.mp3
+Nov 23 10:55 : update: added Podcasts/Ted Talks Daily/2020-11-20 How COVID-19 human challenge trials work -- and why I volunteered  Sophie Rose.mp3
+Nov 23 10:55 : update: added Podcasts/Ted Talks Daily/2020-08-13 When is a pandemic over  Alex Rosenthal.mp3
+Nov 23 10:55 : update: added Podcasts/Ted Talks Daily/2020-11-05 Lessons on leaving the world better than you found it  Sophie Howe.mp3
+Nov 23 10:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Nov 23 10:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Nov 23 10:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Nov 23 10:55 : update: added Podcasts/Ted Talks Daily/2020-11-16 Indias historic opportunity to industrialize using clean energy  Varun Sivaram.mp3
+Nov 23 10:55 : update: added Podcasts/This Week In Linux/2020-11-15 New KDE Plasma Theme In 5.21 GNOME Extensions Rebooted GIMP 2.99.2  This Week in Linux 125.mp3
+Nov 23 10:55 : update: added Podcasts/This Week In Linux/2020-11-22 youtube-dl Restored by GitHub KDE PinePhone Kali Linux SUSE IPO  This Week in Linux 126.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-08-11 What Kind Of Coder Will You Become.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-10-09 Ready to Commit Contributing to Open Source.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-10-13 Jerry Lawson The Engineer Who Changed the Game.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-01-28 Minicomputers The Soul of an Old Machine.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-07-28 Where Coders Code.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-10-01 The C Change.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-04-21 Consoles The Dreamcasts Life After Death.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-08-20 The Infrastructure Effect COBOL and Go.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-04-07 Open Source Hardware Makers Unite.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-10-23 Fail Better Embracing Failure.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-12-18 Open Curiosity NASA Mars and Beyond.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-03-27 Days of Future_Open.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-01-16 OS Wars_part 1.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-12-04 At Your Serverless Development Empowerment with Control.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-06-30 Introducing Season 5 of Command Line Heroes.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-02-25 Personal Computers The Altair 8800 and the Dawn of a Revolution.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-01-30 The Agile_Revolution.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-10-27 Dr. Gladys West The Mathematician Who Reshaped Our World.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-11-20 The Data Explosion Processing Storage and the Cloud.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-02-11 Mainframes The GE 225 and the Birth of BASIC.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-06-25 Python’s Tale.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-12-17 Bonus Developer Advocacy Roundtable.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-09-17 Talking to Machines LISP and the Origins of A.I..mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-01-14 Introducing Season 4 of Command Line Heroes.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-07-09 Learning the BASICs.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-02-13 DevOps_Tear Down That Wall.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-03-13 Crack the Cloud_Open.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-11-10 Mark Dean The Inventor Who Made the Computer Personal.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-09-03 Heroes in a Bash Shell.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-08-28 Introducing Season 2 of Command Line Heroes.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-11-06 The One About DevSecOps Evolving Security and Reliability.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-08-06 Diving for Perl.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-02-27 The Containers_Derby.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-09-11 Press Start How Gaming Shapes Development.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-01-16 OS Wars_part 2 Rise of Linux.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-05-04 One More Thing with Steve Wozniak.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-06-11 Introducing Season 3 of Command Line Heroes.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-07-14 Becoming a Coder.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-03-10 Floppies The Disks that Changed the World.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2017-12-01 Preview_CLH.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2018-09-24 Hello World Programming Languages for the Polyglot Developer.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-03-24 Smarter Phones Journey to the Palm-Sized Computer.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2020-09-29 Command Line Heroes Meet the Inventors.mp3
+Nov 23 10:55 : update: added Podcasts/Command Line Heros/2019-07-23 Creating JavaScript.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-11-19 13 Cloud Native Spring in Action.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-08-06 4 Careers in Technology.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-06-17 0 Sudo Show - New DLN Podcast Coming June 25th!.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-09-17 7 Looking at GitLab.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-11-12 12 Git to the Ops.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-09-03 6 Elements of Cloud Native.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-10-29 11 Managing Linux Desktops At Scale with Noah Chelliah.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-07-23 3 DevOps and Automation.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-10-15 10 Open Source Workstations.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-08-20 5 Cloud Management Tools.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-10-01 8 Ask Me Anything.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-10-08 9 Introduction to Storage Technologies.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-06-25 1 What is Enterprise Open Source.mp3
+Nov 23 10:55 : update: added Podcasts/Sudo Show/2020-07-09 2 Getting Started with Open Source.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Coffee Arab Dance.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Waltz of the Flowers.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Final Waltz and Apotheosis.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Children Gallop and the Entry of the Parents.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Overture.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Tempo Di Grandfather.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Mother Cigogne.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Sugar Plum Fairy.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Pas De Duex.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Tea Chinese Dance.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Chocolate Spanish Dance.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Dance of the Mirlitions.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/Trepak (Russian Dance).mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/In the Pine Forest.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/March.mp3
+Nov 23 10:55 : update: added Tchaikovsky - Nutcraker Suite/The Decoration of the Christmas Tree.mp3
+Nov 23 10:55 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Anitra's Dance).mp3
+Nov 23 10:55 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Death of Ase).mp3
+Nov 23 10:55 : update: added /007 James Bond Theme.mp3
+Nov 23 10:55 : update: added Better Call Saul/Boulevard of Broken Dreams.mp3
+Nov 23 10:55 : update: added Better Call Saul/Big Rock Candy Mountain BURL IVES.mp3
+Nov 23 10:55 : update: added Better Call Saul/The Ink Spots - Address Unknown.mp3
+Nov 23 10:55 : update: added Better Call Saul/Shook - Milestones.mp3
+Nov 23 10:55 : update: added Better Call Saul/Find Out What's Happening.mp3
+Nov 23 10:55 : update: added Better Call Saul/Dennis Coffey-Scorpio.mp3
+Nov 23 10:55 : update: added Better Call Saul/Al Compás De Mi Caballo.mp3
+Nov 23 10:55 : update: added Better Call Saul/Vivaldi Concerto for Strings and Continuo in G major, RV 151 Concerto alla Rustica - 1. Prest.mp3
+Nov 23 10:55 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Morning Mood).mp3
+Nov 23 10:55 : update: added /Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg.ogv
+Nov 23 10:55 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(In the Hall of the Mountain King).mp3
+Nov 23 10:55 : update: added /No Time for Caution.mp3
+Nov 23 11:01 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:02 : player: played "Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Anitra's Dance).mp3"
+Nov 23 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 11:03 : player: played "Tchaikovsky - Nutcraker Suite/Overture.mp3"
+Nov 23 12:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 12:11 : player: played "007 James Bond Theme.mp3"
+Nov 23 12:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 12:11 : player: played "007 James Bond Theme.mp3"
+Nov 23 12:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 12:11 : player: played "007 James Bond Theme.mp3"
+Nov 23 12:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Nov 23 12:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Nov 23 12:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Nov 23 12:41 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 12:45 : player: played "Tchaikovsky - Nutcraker Suite/Overture.mp3"
+Nov 23 12:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Nov 23 12:47 : player: played "Tchaikovsky - Nutcraker Suite/Overture.mp3"
+Nov 23 12:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Nov 23 12:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Nov 23 12:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Dec 01 15:49 : update: added /Carmen L'amour est un oiseau rebelle (Elina Garanca).mp3
+Dec 01 15:49 : update: added /Moonlight Sonnata II.mp3
+Dec 01 15:49 : update: added /Moonlight Sonnata I.mp3
+Dec 01 15:49 : update: added /Pulp Fiction Misirlou.mp3
+Dec 01 15:49 : update: added /Wishing Ain't No Sin (heard in trailer for Better Call SaulAMC).mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-29 - 75 Compromised Comms.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-09 - 67 The Big House.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-01 - 73 WannaCry.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-15 - 74 Mikko.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-10 - 78 Nerdcore.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-24 - 79 Dark Basin.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-23 - 68 Triton.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-07 - 69 Human Hacker.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-28 - 64 The Athens Shadow Games.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-21 - 70 Ghost Exodus.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-12 - 65 PSYOP.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-18 - 72 Bangladesh Bank Heist.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-26 - 66 freakyclown.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-04 - 71 FDFF.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-13 - 76 Knaves Out.mp3
+Dec 01 15:49 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-27 - 77 Olympic Destroyer.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-26 What happens in your brain when you taste food  Camilla Arndal Andersen.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-20 How COVID-19 human challenge trials work -- and why I volunteered  Sophie Rose.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-08-13 When is a pandemic over  Alex Rosenthal.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-05 Lessons on leaving the world better than you found it  Sophie Howe.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-19 How quinoa can help combat hunger and malnutrition  Cedric Habiyaremye.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-27 What almost dying taught me about living  Suleika Jaouad.mp3
+Dec 01 15:49 : update: added Podcasts/Ted Talks Daily/2020-11-16 Indias historic opportunity to industrialize using clean energy  Varun Sivaram.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-11-09 Raspberry Pi 400 LXQt Youtube-dl Update Dell Privacy Drivers HBO Max  This Week in Linux 124.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-10-12 This Week in Linux 120 Oracle vs Google Nextcloud 20 Python 3.9 Better Snaps Theme Support.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-09-28 This Week in Linux 118 Lenovo’s New Ubuntu Laptops GNOME 40 Puppy Linux 9.5 Firefox 81 UBports.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-10-18 This Week in Linux 121 Linux 5.9 KDE Plasma 5.20 LibreOffice Pine64 & More.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-11-15 New KDE Plasma Theme In 5.21 GNOME Extensions Rebooted GIMP 2.99.2  This Week in Linux 125.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-11-22 youtube-dl Restored by GitHub KDE PinePhone Kali Linux SUSE IPO  This Week in Linux 126.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-09-21 This Week in Linux 117 GNOME 3.38 Xfce 4.16 NVIDIA Buys ARM Firefox Send Shutdown PinePhone.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-10-04 This Week in Linux 119 Fedora 33 Beta OBS Studio 26 Purism’s AweSIM Cellular Service.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-11-30 Linus Torvalds on Apple M1 Mac Blender PulseAudio 25 Years of GIMP  This Week in Linux 127.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-11-02 Fedora 33 DMCA Takedown on youtube-dl Pro1 X X Server Being Abandoned  This Week in Linux 123.mp3
+Dec 01 15:49 : update: added Podcasts/This Week In Linux/2020-10-25 Ubuntu 20.10 System76’s Thelio Mega CUPS Forked from Apple  This Week in Linux 122.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-08-11 What Kind Of Coder Will You Become.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-10-09 Ready to Commit Contributing to Open Source.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-10-13 Jerry Lawson The Engineer Who Changed the Game.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-01-28 Minicomputers The Soul of an Old Machine.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-07-28 Where Coders Code.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-10-01 The C Change.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-04-21 Consoles The Dreamcasts Life After Death.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-08-20 The Infrastructure Effect COBOL and Go.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-04-07 Open Source Hardware Makers Unite.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-10-23 Fail Better Embracing Failure.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-12-18 Open Curiosity NASA Mars and Beyond.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-03-27 Days of Future_Open.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-01-16 OS Wars_part 1.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-11-24 Dr. Marc Hannah The Computer Scientist Who Brought Worlds to Life.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-12-04 At Your Serverless Development Empowerment with Control.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-06-30 Introducing Season 5 of Command Line Heroes.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-02-25 Personal Computers The Altair 8800 and the Dawn of a Revolution.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-01-30 The Agile_Revolution.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-10-27 Dr. Gladys West The Mathematician Who Reshaped Our World.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-11-20 The Data Explosion Processing Storage and the Cloud.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-02-11 Mainframes The GE 225 and the Birth of BASIC.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-06-25 Python’s Tale.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-12-17 Bonus Developer Advocacy Roundtable.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-09-17 Talking to Machines LISP and the Origins of A.I..mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-01-14 Introducing Season 4 of Command Line Heroes.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-07-09 Learning the BASICs.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-02-13 DevOps_Tear Down That Wall.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-03-13 Crack the Cloud_Open.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-11-10 Mark Dean The Inventor Who Made the Computer Personal.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-09-03 Heroes in a Bash Shell.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-08-28 Introducing Season 2 of Command Line Heroes.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-11-06 The One About DevSecOps Evolving Security and Reliability.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-08-06 Diving for Perl.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-02-27 The Containers_Derby.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-09-11 Press Start How Gaming Shapes Development.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-01-16 OS Wars_part 2 Rise of Linux.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-05-04 One More Thing with Steve Wozniak.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-06-11 Introducing Season 3 of Command Line Heroes.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-07-14 Becoming a Coder.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-03-10 Floppies The Disks that Changed the World.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2017-12-01 Preview_CLH.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2018-09-24 Hello World Programming Languages for the Polyglot Developer.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-03-24 Smarter Phones Journey to the Palm-Sized Computer.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2020-09-29 Command Line Heroes Meet the Inventors.mp3
+Dec 01 15:49 : update: added Podcasts/Command Line Heros/2019-07-23 Creating JavaScript.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-11-19 13 Cloud Native Spring in Action.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-08-06 4 Careers in Technology.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-06-17 0 Sudo Show - New DLN Podcast Coming June 25th!.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-09-17 7 Looking at GitLab.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-11-12 12 Git to the Ops.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-09-03 6 Elements of Cloud Native.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-10-29 11 Managing Linux Desktops At Scale with Noah Chelliah.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-07-23 3 DevOps and Automation.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-10-15 10 Open Source Workstations.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-08-20 5 Cloud Management Tools.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-10-01 8 Ask Me Anything.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-10-08 9 Introduction to Storage Technologies.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-06-25 1 What is Enterprise Open Source.mp3
+Dec 01 15:49 : update: added Podcasts/Sudo Show/2020-07-09 2 Getting Started with Open Source.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Coffee Arab Dance.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Waltz of the Flowers.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Final Waltz and Apotheosis.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Children Gallop and the Entry of the Parents.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Overture.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Tempo Di Grandfather.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Mother Cigogne.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Sugar Plum Fairy.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Pas De Duex.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Tea Chinese Dance.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Chocolate Spanish Dance.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Dance of the Mirlitions.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/Trepak (Russian Dance).mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/In the Pine Forest.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/March.mp3
+Dec 01 15:49 : update: added Tchaikovsky - Nutcraker Suite/The Decoration of the Christmas Tree.mp3
+Dec 01 15:49 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Anitra's Dance).mp3
+Dec 01 15:49 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Death of Ase).mp3
+Dec 01 15:49 : update: added /007 James Bond Theme.mp3
+Dec 01 15:49 : update: added Better Call Saul/Boulevard of Broken Dreams.mp3
+Dec 01 15:49 : update: added Better Call Saul/Big Rock Candy Mountain BURL IVES.mp3
+Dec 01 15:49 : update: added Better Call Saul/The Ink Spots - Address Unknown.mp3
+Dec 01 15:49 : update: added Better Call Saul/Shook - Milestones.mp3
+Dec 01 15:49 : update: added Better Call Saul/Find Out What's Happening.mp3
+Dec 01 15:49 : update: added Better Call Saul/Dennis Coffey-Scorpio.mp3
+Dec 01 15:49 : update: added Better Call Saul/Al Compás De Mi Caballo.mp3
+Dec 01 15:49 : update: added Better Call Saul/Vivaldi Concerto for Strings and Continuo in G major, RV 151 Concerto alla Rustica - 1. Prest.mp3
+Dec 01 15:49 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Morning Mood).mp3
+Dec 01 15:49 : update: added /Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg.ogv
+Dec 01 15:49 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(In the Hall of the Mountain King).mp3
+Dec 01 15:49 : update: added /Moonlight sonnata III .mp3
+Dec 01 15:49 : update: added Miscellaneous/Star Wars- The Imperial March (Darth Vader's Theme).mp3
+Dec 01 15:49 : update: added Miscellaneous/Анна Ефремова - Скованные одной цепью (ost Beholder film) [Перезалив].mp3
+Dec 01 15:49 : update: added Miscellaneous/Bella Ciao - ORIGINALE.mp3
+Dec 01 15:49 : update: added Miscellaneous/Big Rock Candy Mountain BURL IVES.mp3
+Dec 01 15:49 : update: added Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3
+Dec 01 15:49 : update: added Miscellaneous/Edvard Grieg - Peer Gynt - Suite No. 1, Op. 46 - I. Morning Mood.mp3
+Dec 01 15:49 : update: added Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3
+Dec 01 15:49 : update: added Miscellaneous/Vicetone_Tony_Igy-Astronomia.mp3
+Dec 01 15:49 : update: added Miscellaneous/Valentina Lisitsa plays Liszt's Hungarian Rhapsody No. 2.mp3
+Dec 01 15:49 : update: added Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3
+Dec 01 15:49 : update: added Miscellaneous/Scorpio.mp3
+Dec 01 15:49 : update: added Miscellaneous/lalo salamanca being chaotic for 3 minutes.mp3
+Dec 01 15:49 : update: added Miscellaneous/Hungarian Rhapsody No. 2.mp3
+Dec 01 15:49 : update: added Miscellaneous/安子与九妹 布谷鸟 CUCKOO.mp3
+Dec 01 15:49 : update: added Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3
+Dec 01 15:49 : update: added Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3
+Dec 01 15:49 : update: added Miscellaneous/Boney M. - Rasputin (Sopot Festival 1979) (VOD).mp3
+Dec 01 15:49 : update: added Miscellaneous/Bach, Cello suite Nº 1 (completa) Música Clásica.mp3
+Dec 01 15:49 : update: added Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3
+Dec 01 15:49 : update: added Miscellaneous/Also Sprach Zarathustra, Op. 30 - Strauss.mp3
+Dec 01 15:49 : update: added Miscellaneous/James Bond Theme.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 01 15:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 01 15:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 01 15:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 01 15:49 : update: added Miscellaneous/Breaking Bad Main Title Theme (Extended).mp3
+Dec 01 15:49 : update: added Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3
+Dec 01 15:49 : update: added Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3
+Dec 01 15:49 : update: added Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3
+Dec 01 15:49 : update: added Miscellaneous/Mission Impossible Theme.mp3
+Dec 01 15:49 : update: added Miscellaneous/Buttercup.mp3
+Dec 01 15:49 : update: added Miscellaneous/Cornfield Chase.mp3
+Dec 01 15:49 : update: added Miscellaneous/Shook - Milestones(2).mp3
+Dec 01 15:49 : update: added Miscellaneous/Uyiril Thodum.mp3
+Dec 01 15:49 : update: added Miscellaneous/Cherathukal .mp3
+Dec 01 15:49 : update: added Miscellaneous/Something Stupid (From Better Call Saul)(2).mp3
+Dec 01 15:49 : update: added Miscellaneous/Marconi Union - Weightless.mp3
+Dec 01 15:49 : update: added Miscellaneous/Offenbach - Can Can Music.mp3
+Dec 01 15:49 : update: added Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3
+Dec 01 15:49 : update: added Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3
+Dec 01 15:49 : update: added Miscellaneous/Turkish March Mozart - Rondo Alla Turca.mp3
+Dec 01 15:49 : update: added Miscellaneous/Negro Y Azul The Ballad of Heisenberg (From Breaking Bad TV Series) (Cover Audio Video).mp3
+Dec 01 15:49 : update: added Miscellaneous/Tarantella Neapoletana.mp3
+Dec 01 15:49 : update: added Miscellaneous/De Mi Caballo.mp3
+Dec 01 15:49 : update: added Miscellaneous/03 New Philharmonia Orchestra - William Tell Overture - Classical Music Masterpieces, Vol. XXVI.mp3
+Dec 01 15:49 : update: added Miscellaneous/Nuxito x Dú Moreno - Mana Fina [2019].mp3
+Dec 01 15:49 : update: added Miscellaneous/Ra Ra RasPutin animation 720 1080 HD Version slocband paceaudio.mp3
+Dec 01 15:49 : update: added Miscellaneous/Mischa Maisky plays Bach Cello Suite No.1 in G (full).mp3
+Dec 01 15:49 : update: added Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3
+Dec 01 15:49 : update: added Miscellaneous/Mozart - Lacrimosa.mp3
+Dec 01 15:49 : update: added Miscellaneous/Loituma - Levan Polkka.mp3
+Dec 01 15:49 : update: added Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3
+Dec 01 15:49 : update: added Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3
+Dec 01 15:49 : update: added Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3
+Dec 01 15:49 : update: added Miscellaneous/Il barone rosso (From La bellissima estate).mp3
+Dec 01 15:49 : update: added Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3
+Dec 01 15:49 : update: added Miscellaneous/Hungarian Dance no. 5.mp3
+Dec 01 15:49 : update: added Miscellaneous/Chris Lohr - Breaking Bad Remix seasons 3-5.mp3
+Dec 01 15:49 : update: added Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3
+Dec 01 15:49 : update: added Miscellaneous/03 New Philharmonia Orchestra - William Tell Overture - Classical Music Masterpieces, Vol. XXVI(1).mp3
+Dec 01 15:49 : update: added /No Time for Caution.mp3
+Dec 01 15:49 : update: added /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz.mp3
+Dec 01 15:49 : update: added /Maria Callas - L'amour est un oiseau rebelle.mp3
+Dec 01 15:50 : avahi: Initializing interface
+Dec 01 15:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 15:50 : avahi: Client changed to state 101
+Dec 01 15:50 : avahi: Client is CONNECTING
+Dec 01 15:50 : state_file: Loading state file /home/rohit/.config/mpd/state
+Dec 01 15:52 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 15:52 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 15:58 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Dec 01 15:58 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:06 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Dec 01 16:07 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:21 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:25 : exception: Failed to open audio output
+Dec 01 16:25 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:25 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Dec 01 16:26 : state_file: Saving state file /home/rohit/.config/mpd/state
+Dec 01 16:26 : avahi: Shutting down interface
+Dec 01 16:26 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:27 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:27 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 01 16:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 01 16:38 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 16:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 01 18:27 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Dec 01 18:43 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 01 19:51 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Dec 03 16:04 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 16:04 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:13 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 16:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 16:30 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 16:30 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 16:31 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 16:31 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 16:31 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Dec 03 16:31 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 17:55 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 17:55 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 17:55 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Dec 03 17:55 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Dec 03 17:56 : exception: Failed to open "<alsa_output.pci.0000_00_1f.3.analog-stereo>" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 03 17:56 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 17:57 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Dec 03 17:58 : exception: Failed to read mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 17:58 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 17:58 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 17:59 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:01 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:01 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:02 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:02 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:03 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:18 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:19 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:25 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Dec 03 18:30 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Dec 03 18:46 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 18:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 18:52 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Dec 03 19:06 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 19:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 19:06 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 19:06 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Dec 03 19:17 : exception: Failed to open mixer for '<alsa_output.pci.0000_00_1f.3.analog-stereo>': no such mixer control: PCM
+Dec 03 19:17 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 03 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Dec 03 20:16 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Dec 03 20:31 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Dec 03 20:34 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Dec 03 20:57 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Dec 07 16:35 : update: updating /Carmen L'amour est un oiseau rebelle (Elina Garanca).mp3
+Dec 07 16:35 : update: updating /Pulp Fiction Misirlou.mp3
+Dec 07 16:35 : update: updating /007 James Bond Theme.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 07 16:35 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 07 16:35 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 07 16:35 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 07 16:35 : update: updating /No Time for Caution.mp3
+Dec 07 16:35 : update: added /Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3
+Dec 07 16:35 : update: updating /Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz.mp3
+Dec 07 16:35 : update: added /Putih Abu-Abu - Bagaikan Langit (Official Music Video).mp3
+Dec 07 16:35 : update: updating /Maria Callas - L'amour est un oiseau rebelle.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 07 16:36 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 07 16:36 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 07 16:36 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 07 16:36 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Dec 07 16:41 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Dec 07 20:28 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Dec 08 00:29 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Dec 09 00:00 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Dec 11 00:19 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Dec 11 10:03 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-31 - 62 Cam.mp3
+Dec 11 10:03 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-14 - 63 w0rmer.mp3
+Dec 11 10:03 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-12-08 - 80 The Whistleblower.mp3
+Dec 11 10:03 : update: updating Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-28 - 64 The Athens Shadow Games.mp3
+Dec 11 10:03 : update: added Podcasts/Ted Talks Daily/2020-12-10 Why monkeys (and humans) are wired for fairness  Sarah Brosnan.mp3
+Dec 11 10:03 : update: added Podcasts/This Week In Linux/2020-12-08 128 SUSE  Rancher Labs System76 AMD Laptop Linux on Apple M1 Mac Project.mp3
+Dec 11 10:03 : update: added Podcasts/Command Line Heros/2020-12-08 Dr. Clarence Ellis The Developer Who Helped Us Collaborate.mp3
+Dec 11 10:03 : update: added Podcasts/Sudo Show/2020-12-03 14 Looking at CrowdSec with Philippe Humeau.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 11 10:03 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 11 10:03 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 11 10:03 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 11 10:08 : update: updating Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-31 - 62 Cam.mp3
+Dec 11 10:08 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-02-04 - 58 OxyMonster.mp3
+Dec 11 10:08 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-17 - 61 Samy.mp3
+Dec 11 10:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 11 10:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 11 10:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Dec 11 10:08 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-03 - 60 dawgyg.mp3
+Dec 11 10:08 : update: added Podcasts/Darknet Diaries/Darknet Diaries - 2020-02-18 - 59 The Courthouse.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 11 10:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 11 10:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 11 10:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 11 10:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 11 10:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 11 10:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 23829.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Dec 11 10:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Dec 11 10:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Dec 11 10:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 24856.
+Dec 12 00:32 : player: played "Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-10 - 78 Nerdcore.mp3"
