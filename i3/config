@@ -40,6 +40,10 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 bindsym XF86MonBrightnessUp exec xbacklight -inc 10
 bindsym XF86MonBrightnessDown exec xbacklight -dec 10
 
+# Music controls (mpd must be configured and mpc must be installed)
+bindsym  XF86AudioPlay exec --no-startup-id mpc toggle
+
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 focus_follows_mouse no
@@ -197,9 +201,12 @@ bindsym $mod+Mod1+r restart
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 #Screen shot
-bindsym Print exec --no-startup-id screengrab -fm
-bindsym Ctrl+Print exec --no-startup-id screengrab -rm
-bindsym Ctrl+Shifit+Print exec --no-startup-id screengrab -am
+#bindsym Print exec --no-startup-id screengrab -fm
+bindsym Print exec scrot 'SS_%Y-%m-%d_%H::%M::%S_$wx$h.png' -q 100 -e 'mv $f ~/Pictures/Screenshots/'
+#bindsym Ctrl+Print exec --no-startup-id screengrab -rm   
+bindsym Ctrl+Print exec scrot 'SS_%Y-%m-%d_%H::%M::%S_$wx$h.png' -s -q 100 -e 'mv $f ~/Pictures/Screenshots/'
+#bindsym Ctrl+Shifit+Print exec --no-startup-id screengrab -a/m
+bindsym Ctrl+Shift+Print exec scrot 'SS_%Y-%m-%d_%H::%M::%S_$wx$h.png' -u -q 100 -e 'mv $f ~/Pictures/Screenshotsh/'
 
 #ScreenLock
 bindsym Ctrl+Mod1+l exec /home/rohit/.config/i3/scripts/lock.sh #i3lock --color "$bg-color"
@@ -268,6 +275,7 @@ bar {
        } 
 }
 
+## StartUpCommands
 exec --no-startup-id xset r rate 250 25
 exec --no-startup-id xinput set-prop  DELL083F:00\ 04F3:3088\ Touchpad libinput\ Tapping\ Enabled 1 &
 exec_always --no-startup-id nitrogen --restore
