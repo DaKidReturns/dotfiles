@@ -182,7 +182,7 @@ for_window [class=".*"] border pixel 4
 for_window [class="Gnome-chess"] floating enable
 for_window [class="Calculator"] floating enable
 
-assign [class="firefox"] $ws2
+assign [class="Brave-browser"] $ws2
 assign [class="QtCreator"] $ws3
 assign [class="Inkscape"] $ws4
 assign [class="Gimp"] $ws5

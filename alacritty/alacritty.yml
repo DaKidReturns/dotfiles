@@ -574,7 +574,7 @@ mouse:
     # URL launcher
     # When set to `None`, URL launching will be disabled completely.
     launcher:
-      program: firefox
+      program: brave
     #  args: []
 
 font:
@@ -752,4 +752,4 @@ schemes:
       cyan:    '0x8abeb7'
       white:   '0xc5c8c6'
 
-colors: *gruvbox_dark
+colors: *breeze
