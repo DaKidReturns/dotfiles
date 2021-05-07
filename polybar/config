@@ -28,14 +28,15 @@ secondary = #e60053
 alert = #bd2c40
 
 
-[bar/example]
+[bar/mybar]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 100%
 height = 32
-;offset-x = 10%
+offset-x = 60%
 offset-y = 1%
 radius = 10.0
-fixed-center = true
+fixed-center = false
+bottom=true
 
 background = ${colors.background}
 foreground = ${colors.foreground}
@@ -57,7 +58,7 @@ font-0 = "Nimbus Sans:pixelsize=10;1"
 font-1 = unifont:fontformat=truetype:size=10:antialias=false;0
 font-2 = siji:pixelsize=25;1
 
-modules-left = bspwm
+;modules-left = bspwm
 ;modules-center = mpd
 modules-right = filesystem xbacklight pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
 
@@ -65,7 +66,7 @@ tray-position = center
 tray-padding = 2
 ;tray-background = #0063ff
 
-wm-restack = bspwm
+;wm-restack = bspwm
 
 ;override-redirect = true
 

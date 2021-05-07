@@ -25,7 +25,7 @@ function __fish_default_command_not_found_handler
     printf "fish: Unknown command: %s\n" (string escape -- $argv[1]) >&2
 end
 
-if status --is-interactive
+if status is-interactive
     # Enable truecolor/24-bit support for select terminals
     # Ignore Screen and emacs' ansi-term as they swallow the sequences, rendering the text white.
     if not set -q STY
@@ -238,6 +238,7 @@ if status --is-login
             __fish_macos_set_env 'MANPATH' '/etc/manpaths' '/etc/manpaths.d'
         end
         functions -e __fish_macos_set_env
+
     end
 
     #
@@ -293,3 +294,15 @@ for file in $__fish_config_dir/conf.d/*.fish $__fish_sysconf_dir/conf.d/*.fish $
     [ -f $file -a -r $file ]
     and source $file
 end
+
+#custom commands
+#Statrt X at login
+
+if status is-login
+    if test -z "$DISPLAY" -a "$XDG_VTNR" = 1
+        exec startx -- -keeptty
+    end
+end
+
+alias sudo="doas"
+set fish_greeting ""

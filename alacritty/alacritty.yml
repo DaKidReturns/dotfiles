@@ -727,7 +727,7 @@ schemes:
   custom1: &custom1
         # Default colors
     primary:
-      background: '0x1d1f21'
+      background: '0x1d2021'
       foreground: '0xc5c8c6'
      
      #Normal colors
