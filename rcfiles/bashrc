@@ -1,0 +1,39 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+#[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias sudo="doas"
+alias astcfg="vim ~/.config/dwm/scripts/autostart"
+alias dwmconfig="vim ~/Programs/dwm-6.2/config.h"
+alias grep="grep --color"
+
+export PATH=$PATH:$HOME/.local/bin
+#PS1='[\u@\h \W]\$ '
+CYAN='\e[48;5;23m'
+NORMAL='\e(B\e[m'
+PS1="${CYAN} \u@\h \W  ${NORMAL}\n>>"
+#PS1="${CYAN} \u@\h \W `date` ${NORMAL}\n>>"
+
+
+## SSH agent
+if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+        ssh-agent  > "$XDG_RUNTIME_DIR/ssh-agent.env"
+fi
+if [[ ! "$SSH_AUTH_SOCK" ]]; then
+    source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
+    ssh-add ~/.ssh/github
+    #for file in ~/.ssh/ ; do
+    #    if [[ ! $file=*.pub ]]; then
+    #        ssh-add ~/.ssh/$file
+    #        echo "added $file\n"
+    #    fi
+    #done
+fi
+
+if [[ -z "${DISPLAY}" ]] && [[ "${XDG_VTNR}" -eq 1 ]]; then
+    exec startx
+fi

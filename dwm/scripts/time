@@ -1,0 +1,8 @@
+#! /bin/bash
+
+time="$(date|awk '{print $4}'|sed 's/...$//')"
+date="$(date|awk 'print $1 " " $3 " " $2 " " $7')"
+
+icon=" "
+
+printf "%s %s %s" "${icon}" "${date}" "${time}"

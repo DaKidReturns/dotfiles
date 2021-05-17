@@ -1,0 +1,5 @@
+bat=$(acpi | awk '{print $4}'| sed 's/,// ')
+
+icon="Battery"
+
+printf "%s : %s" "$icon" "$bat"

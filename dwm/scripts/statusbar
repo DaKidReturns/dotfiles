@@ -1,0 +1,38 @@
+#! /bin/bash
+
+diskicon="disk:"
+baticon="Battery"
+procicon="Process:"
+tempicon="Temp: "
+timeicon="Time:"
+delim="|"
+
+while : ; do
+    #Disk Space
+    hdd="$(df -h | awk '/^\/dev\/mapper\/volgroup0-home--arch/ {print $3 "/" $4}')"
+
+    #Battery remaning
+    bat="$(acpi | awk 'NR==1{print $4}'| sed 's/,// ')"
+
+    #Most memintense process
+    proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1" "$2}')%" 
+
+    #Temprature
+    temp="$(sensors | awk '/^CPU/ {print $2}' | sed 's/+// ')"
+
+    #time and date
+    time="$(date|awk '{print $4}'|sed 's/...$//')"
+    dat="$(date|awk '{print $1 " " $3 " " $2 " " $7}')"
+
+    #RAM usage
+    ram="$(free -m | grep Mem | awk '{print $3 "MB/" $2"MB"}')"
+
+    text=$(printf "[Disk:%s] [Battery:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat" "$ram" "$proce" "$temp" "$time" "$dat")
+     
+    xsetroot -name "${text}"
+
+    sleep 60
+
+done
+
+# ps -C statusbar

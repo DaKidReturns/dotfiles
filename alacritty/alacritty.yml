@@ -579,13 +579,13 @@ mouse:
 
 font:
   normal:
-    family: Source Code Pro
+    family: JetBrainsMono
     style: Regular
   bold:
-    family: Source Code Pro
+    family: JetBrainsMono 
     style: SemiBold
   italic:
-    family: Source Code Pro
+    family: JetBrainsMono 
     style: Italic
   size: 8
 

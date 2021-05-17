@@ -1,0 +1,5 @@
+~/.config/dwm/scripts/autostart&
+while true
+    do
+        dwm 2> ~/.config/dwm/.errors.log
+done
