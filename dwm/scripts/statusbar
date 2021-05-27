@@ -8,13 +8,19 @@ timeicon="Time:"
 delim="|"
 
 while : ; do
-    #Disk Space
+    #Home Disk Space
     hdd="$(df -h | awk '/^\/dev\/mapper\/volgroup0-home--arch/ {print $3 "/" $4}')"
 
     #Battery remaning
-    bat="$(acpi | awk 'NR==1{print $4}'| sed 's/,// ')"
+    bat="$(cat /sys/class/power_supply/BAT0/capacity)"
+    bat_stat="$(cat /sys/class/power_supply/BAT0/status)"
 
-    #Most memintense process
+    #If the status of battery is unkonwn, the charger might just be plugged in.
+    while [[ $bat_stat = 'Unknown'  ]] ; do
+        bat_stat="$(cat /sys/class/power_supply/BAT0/status)"
+    done
+
+    #Most memory intense process
     proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1" "$2}')%" 
 
     #Temprature
@@ -27,12 +33,20 @@ while : ; do
     #RAM usage
     ram="$(free -m | grep Mem | awk '{print $3 "MB/" $2"MB"}')"
 
-    text=$(printf "[Disk:%s] [Battery:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat" "$ram" "$proce" "$temp" "$time" "$dat")
+    text=$(printf "[Disk:%s] [%s:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat_stat" "$bat%" "$ram" "$proce" "$temp" "$time" "$dat")
      
     xsetroot -name "${text}"
 
-    sleep 60
+    if [ $bat -le 10 ] && [ $bat_stat = 'Discharging' ] ; then
+        # Critical notification, timeout after 11 seconds
+        notify-send -u critical "Battery Low" "$bat% remaining" -t 11000
+    fi
+    if { [ $bat -ge 98 ] && { [ $bat_stat = 'Charging' ] || [ $bat_stat = 'Full' ] ;} ; } then
+        notify-send -u normal "Sufficiently Charged" "$bat% remaining" -t 11000
+    fi
+
+    #Sleep for 12 seconds
+    sleep 12
 
 done
 
-# ps -C statusbar

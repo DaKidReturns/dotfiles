@@ -1,14 +1,14 @@
 #! /bin/bash
 
-path_to_wallpaper="~/Pictures/Wallpapers/Wallpaper2.jpg"
+path_to_wallpaper="~/Pictures/Wallpapers/Wallpaper6.jpg"
 
 xset r rate 250 25&
 xinput set-prop  DELL083F:00\ 04F3:3088\ Touchpad libinput\ Tapping\ Enabled 1 &
 xinput set-prop DELL083F:00\ 04F3:3088\ Touchpad libinput\ Natural\ Scrolling\ Enabled 1 &
 
 #nitrogen --restore
-#feh --no-fehbg --bg-max $path_to_wallpaper &
-feh --no-fehbg --bg-max ~/Pictures/Wallpapers/Wallpaper3.jpg&
+#feh --no-fehbg --bg-max "${path_to_wallpaper}" &
+feh --no-fehbg --bg-max ~/Pictures/Wallpapers/Wallpaper6.jpg&
 picom&
 ~/.config/dwm/scripts/statusbar&
 exec xsetroot -cursor_name left_ptr

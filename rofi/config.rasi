@@ -1,36 +1,37 @@
 configuration {
-	modi: "window,drun,ssh,combi,run";
-	width: 100;
-	lines: 3;
+/*  modi: "window,drun,ssh,combi,run,file-browser";*/
+    modi: "run";
+/*	width: 100;*/
+	lines: 8;
 /*	columns: 1;*/
 	font: "Trebuchet MS 12";
 /*	bw: 1;*/
 /*	location: ;*/
-	padding: 436;
+/*	padding: 400;*/
 /*	yoffset: 0;*/
 /*	xoffset: 0;*/
 	fixed-num-lines: true;
 	show-icons: true;
-/*	terminal: "rofi-sensible-terminal";*/
+	terminal: "rofi-sensible-terminal";
 /*	ssh-client: "ssh";*/
 /*	ssh-command: "{terminal} -e {ssh-client} {host} [-p {port}]";*/
 /*	run-command: "{cmd}";*/
 /*	run-list-command: "";*/
-/*	run-shell-command: "{terminal} -e {cmd}";*/
+	run-shell-command: "{terminal} -e {cmd}";
 /*	window-command: "wmctrl -i -R {window}";*/
 /*	window-match-fields: "all";*/
 	icon-theme: "Papirus";
 /*	drun-match-fields: "name,generic,exec,categories";*/
 /*	drun-show-actions: false;*/
 /*	drun-display-format: "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";*/
-/*	disable-history: false;*/
+/*	disable-history: true;*/
 /*	ignored-prefixes: "";*/
 /*	sort: false;*/
 /*	sorting-method: ;*/
 /*	case-sensitive: false;*/
 /*	cycle: true;*/
 /*	sidebar-mode: false;*/
-	eh: 3;
+/*	eh: 3;*/
 /*	auto-select: false;*/
 /*	parse-hosts: false;*/
 /*	parse-known-hosts: true;*/
@@ -43,8 +44,8 @@ configuration {
 /*	filter: ;*/
 /*	separator-style: "dash";*/
 /*	hide-scrollbar: false;*/
-	fullscreen: false;
-	fake-transparency: true;
+/*	fullscreen: false;*/
+/*	fake-transparency: true;*/
 /*	dpi: -1;*/
 /*	threads: 0;*/
 /*	scrollbar-width: 8;*/
@@ -56,10 +57,10 @@ configuration {
 /*	theme: ;*/
 
 //  State         background    foregoround    bg-alternating   hlbg     hlfg   
-	color-normal: "#c7282828,       #928374,     #c7282828,     #c7282828,   #fbf1c7";
-	color-urgent: "#cc241d,       #928374,       #282828,         #282828,   #fbf1c7";
-	color-active: "#c7282828,       #928374,     #c7282828,         #282828,   #fbf1c7";
-	color-window: "#c7282828,     #928374,       #c7282828,         #282828,   #fbf1c7";
+/*	color-normal: "#c7282828,       #928374,     #c7282828,     #c7282828,   #fbf1c7";*/
+/*	color-urgent: "#cc241d,       #928374,       #282828,         #282828,   #fbf1c7";*/
+/*	color-active: "#c7282828,       #928374,     #c7282828,         #282828,   #fbf1c7";*/
+/*	color-window: "#c7282828,     #928374,       #c7282828,         #282828,   #fbf1c7";*/
 
 /*	max-history-size: 25;*/
 /*	combi-hide-mode-prefix: false;*/
@@ -146,3 +147,4 @@ configuration {
 /*	me-accept-entry: "MouseDPrimary";*/
 /*	me-accept-custom: "Control+MouseDPrimary";*/
 }
+@import "./custom.rasi"
