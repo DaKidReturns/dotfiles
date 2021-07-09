@@ -9,7 +9,7 @@ delim="|"
 
 while : ; do
     #Home Disk Space
-    hdd="$(df -h | awk '/^\/dev\/mapper\/volgroup0-home--arch/ {print $3 "/" $4}')"
+    hdd="$(df -h | awk '/^\/dev\/mapper\/volgroup0-home--arch/ {print $3 "/" $2}')"
 
     #Battery remaning
     bat="$(cat /sys/class/power_supply/BAT0/capacity)"
@@ -33,13 +33,17 @@ while : ; do
     #RAM usage
     ram="$(free -m | grep Mem | awk '{print $3 "MB/" $2"MB"}')"
 
-    text=$(printf "[Disk:%s] [%s:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat_stat" "$bat%" "$ram" "$proce" "$temp" "$time" "$dat")
+    #Volume
+    volume=$(amixer sget PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}') 
+
+    text=$(printf "[Disk:%s] [%s:%s] [Volume:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat_stat" "$bat%" "$volume" "$ram" "$proce" "$temp" "$time" "$dat")
      
     xsetroot -name "${text}"
 
     if [ $bat -le 10 ] && [ $bat_stat = 'Discharging' ] ; then
         # Critical notification, timeout after 11 seconds
         notify-send -u critical "Battery Low" "$bat% remaining" -t 11000
+        ~/.config/dwm/scripts/crit_run
     fi
     if { [ $bat -ge 98 ] && { [ $bat_stat = 'Charging' ] || [ $bat_stat = 'Full' ] ;} ; } then
         notify-send -u normal "Sufficiently Charged" "$bat% remaining" -t 11000

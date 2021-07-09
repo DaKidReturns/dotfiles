@@ -1,0 +1,46 @@
+#! /bin/bash
+
+#pactl set-sink-mute @DEFAULT_SINK@ no 
+#pactl set-sink-volume @DEFAULT_SINK@ +5%
+#
+# use awk grep to find the volume
+if [ -z $1 ]
+then 
+    exit 1 
+fi
+
+if [ $1 = 'toggle' ]; then
+    volume=$(amixer -c 0 get PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+    if [ $volume != '0%' ]; then
+        amixer -qc 0 set PCM 0%
+        dunstctl close
+        notify-send "Muted" -t 700
+    else
+        amixer -qc 0 set PCM 180
+        dunstctl close
+        notify-send "un-Muted" -t 700
+    fi
+else
+    if [ -z $2 ]; then
+        delta_val="5%"
+    else
+        delta_val=$2
+    fi
+
+    if [ $1 = 'inc' ]; then
+        delta_val=$delta_val"+"
+    elif [ $1 = 'dec' ]; then
+        delta_val=$delta_val"-"
+    fi  
+
+    volume=$(amixer -c 0 sset PCM ${delta_val} | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+    dunstctl close
+    notify-send "VOLUME: ${volume}" -t 700
+fi
+
+proc=$(ps h -eo s,pid,ppid,comm |  grep 'statusbar')
+pid=$(echo -n $proc | awk '{print $2}')
+state=$(echo -n $proc | awk '{print $1}')
+if [ $state = "S" ]; then 
+   ps h -eo s,pid,ppid,comm |  awk -v a="$pid" '{ if ($3 == a) print $2}' | xargs kill
+fi

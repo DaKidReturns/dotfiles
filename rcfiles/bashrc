@@ -5,19 +5,33 @@
 # If not running interactively, don't do anything
 #[[ $- != *i* ]] && return
 
+
+
 alias ls='ls --color=auto'
 alias sudo="doas"
-alias astcfg="vim ~/.config/dwm/scripts/autostart"
-alias dwmconfig="vim ~/Programs/dwm-6.2/config.h"
+alias astcfg="nvim ~/.config/dwm/scripts/autostart"
+alias dwmconfig="nvim ~/Programs/dwm-6.2/config.h"
 alias grep="grep --color"
 
 export PATH=$PATH:$HOME/.local/bin
-#PS1='[\u@\h \W]\$ '
-CYAN='\e[48;5;23m'
-NORMAL='\e(B\e[m'
-PS1="${CYAN} \u@\h \W  ${NORMAL}\n>>"
-#PS1="${CYAN} \u@\h \W `date` ${NORMAL}\n>>"
+export HISTCONTROL=ignoredups
+export HISTFILE=/home/rohit/.bash_history
+export HISTFILESIZE=2000
+export HISTSIZE=1000
 
+shopt -s checkwinsize
+shopt -s autocd
+set -o noclobber
+
+rm() { command rm -i "${@}"; }
+cp() { command cp -i "${@}"; }
+mv() { command mv -i "${@}"; }
+
+searchpkg() { command pacman -Ss "${@}"; }
+installpkg() { command doas pacman -S "${@}"; }
+removepkg() { command doas pacman -Rns "${@}"; }
+update() { command doas pacman -Syu "${@}"; }
+startmpd (){ command doas mpd ~/.config/mpd/mpd.conf; }
 
 ## SSH agent
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
@@ -33,6 +47,29 @@ if [[ ! "$SSH_AUTH_SOCK" ]]; then
     #    fi
     #done
 fi
+
+__prompt_command () 
+{ 
+    local EXIT="$?";
+    PS1="";
+    local RCol='\[\e[0m\]';
+    local Red='\[\e[0;31m\]';
+    local Gre='\[\e[0;32m\]';
+    local BGre='\[\e[1;32m\]';
+    local Org='\[\e[38;5;208m\]';
+    local BYel='\[\e[0;33m\]';
+    local BBlu='\[\e[1;34m\]';
+    local Pur='\[\e[0;35m\]';
+    PS1+="${Org}[${RCol} ${BBlu}\u${RCol}@${BYel}\h ${Pur}\w ${RCol} ${Org}]${RCol}";
+    if [ $EXIT != 0 ]; then
+        PS1+="\n${Red}:-( ${RCol}";
+    else
+        PS1+="\n${Gre}:-) ${RCol}";
+    fi
+}
+
+PROMPT_COMMAND=__prompt_command
+
 
 if [[ -z "${DISPLAY}" ]] && [[ "${XDG_VTNR}" -eq 1 ]]; then
     exec startx

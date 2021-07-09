@@ -8,5 +8,8 @@ set recolor-lightcolor "#282828"
 
 set statusbar-home-tilde "true"
 
+set selection-clipboard clipboard
+set sandbox none
+
 #Press Alt-r for darkmode
 map A-r recolor

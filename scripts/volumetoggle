@@ -1,0 +1,12 @@
+#! /bin/sh
+#amixer -qc 0 set Master playback toggle && amixer -qc 0 set Speaker playback unmute  && amixer -qc 0 set Headphone playback unmute
+
+volume=$(amixer sget PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+#echo $volume
+if [ $volume != '0%' ]; then
+    amixer -qc 0 set PCM 0%
+    notify-send "Muted"
+else
+    amixer -qc 0 set PCM 180
+    notify-send "UnMuted"
+fi

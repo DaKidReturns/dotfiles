@@ -26,27 +26,27 @@ highlight Colorcolumn ctermbg=0 guibg=lightgrey
 " }}}
 
 "{{{ Plugins"
-call plug#begin('~/.config/.vim/plugged')
+"call plug#begin('~/.config/.vim/plugged')
 
-Plug 'morhetz/gruvbox'
-Plug 'jremmen/vim-ripgrep'
+"Plug 'morhetz/gruvbox'
+"Plug 'jremmen/vim-ripgrep'
 "Plug 'tpope/vim-fugitive'"
-Plug 'reewr/vim-monokai-phoenix'
-Plug 'vim-utils/vim-man'
-Plug 'lyuts/vim-rtags'
-Plug 'ctrlpvim/ctrlp.vim'
-Plug 'mbbill/undotree'
-Plug 'tomasr/molokai'
+"Plug 'reewr/vim-monokai-phoenix'
+"Plug 'vim-utils/vim-man'
+"Plug 'lyuts/vim-rtags'
+"Plug 'ctrlpvim/ctrlp.vim'
+"Plug 'mbbill/undotree'
+"Plug 'tomasr/molokai'
 "Plug 'fatih/vim-go',{'do':':GoUpdateBinaries'}"
-Plug 'sickill/vim-monokai'
+"Plug 'sickill/vim-monokai'
 
-call plug#end()
+"call plug#end()
 "}}}"
 
 "colorscheme monokai"
-colorscheme gruvbox
+"colorscheme gruvbox
 "colorscheme monokai-phoenix"
-set background=dark
+"set background=dark
 
 if executable('rg')
     let g:rg_derive_root='true'
@@ -72,9 +72,9 @@ nnoremap <leader>pv :wincmd v<bar> :Ex<bar> :vertical resize 30<bar> :wincmd j<C
 nnoremap <leader>ps :Rg<SPACE>
 nnoremap <leader>wm :vertical resize 30<CR>
 nnoremap <leader>wn :vertical resize 100<CR>
-nnoremap <silent> > :vertical resize +5<CR>
-nnoremap <silent> < :vertical resize -5<CR>
-nnoremap <silent> <C-h> :nohlsearch<CR>
+nnoremap <C-=> :vertical resize +5<CR>
+nnoremap <C--> :vertical resize -5<CR>
+nnoremap <silent> <C-b> :nohlsearch<CR>
 nnoremap <C-v> "+P
 vnoremap <C-c> "+y
 

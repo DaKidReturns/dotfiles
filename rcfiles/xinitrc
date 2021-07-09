@@ -1,0 +1,5 @@
+#[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
+#
+export QT_QPA_PLATFORMTHEME=qt5ct
+dunst &
+exec ~/.config/dwm/scripts/startup

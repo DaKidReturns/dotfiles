@@ -1,0 +1,18 @@
+#! /bin/sh
+
+for (( ; ; ))
+do
+    for (( s=0; s<10; s++  ))
+    do
+        pactl set-source-volume @DEFAULT_SOURCE@ +10%
+        #sleep 0.09
+    done
+    pactl set-source-volume @DEFAULT_SOURCE@ 200%
+    for (( s=0; s<10; s++  ))
+    do
+        pactl set-source-volume @DEFAULT_SOURCE@ -10%
+        #sleep 0.09
+    done
+    pactl set-source-volume @DEFAULT_SOURCE@ 5
+    sleep 0.1
+done

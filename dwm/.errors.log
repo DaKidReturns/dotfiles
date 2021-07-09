@@ -1,21 +1,39 @@
-Gtk-Message: 16:09:44.988: Failed to load module "colorreload-gtk-module"
-Gtk-Message: 16:09:44.988: Failed to load module "window-decorations-gtk-module"
-[755:755:0527/160947.772450:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is egl
-[700:700:0527/160954.022146:ERROR:profile_attributes_storage.cc(548)] Failed to PNG encode the image.
-[700:846:0527/160954.515761:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-[700:846:0527/160954.516495:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-[700:846:0527/160954.517159:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
-Failed to parse JSON adblock resources: EOF while parsing a value at line 1 column 0
-[700:700:0527/161000.306065:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
-[700:700:0527/161006.589296:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome://newtab/ (0)
-Gtk-Message: 16:10:51.039: Failed to load module "colorreload-gtk-module"
-Gtk-Message: 16:10:51.039: Failed to load module "window-decorations-gtk-module"
-[700:2388:0527/162044.939211:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-[700:2388:0527/162129.981876:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-[700:2056:0527/162242.668738:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-[700:2056:0527/162423.959771:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-[700:3597:0527/162655.866832:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-Fontconfig error: Cannot load default config file: No such file: (null)
-Fontconfig error: Cannot load default config file: No such file: (null)
-[700:4096:0527/163043.711756:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
-[700:5512:0527/164013.277074:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Gtk-Message: 09:17:31.759: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:17:31.760: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:27:07.725: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:27:07.725: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:28:36.304: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:28:36.304: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:39:25.397: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:39:25.397: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:42:12.823: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:42:12.823: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 09:51:36.952: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 09:51:36.952: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 10:48:29.864: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 10:48:29.864: Failed to load module "window-decorations-gtk-module"
+Gtk-Message: 12:09:37.968: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:09:37.969: Failed to load module "window-decorations-gtk-module"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gtk-Message: 12:25:31.571: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 12:25:31.571: Failed to load module "window-decorations-gtk-module"

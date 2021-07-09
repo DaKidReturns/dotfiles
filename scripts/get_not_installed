@@ -1,0 +1,2 @@
+pacman -Si $1 | grep -iE 'Depends\ On' | sed 's/Depends\ On\ \ \ \ \ \ ://' | xargs pacman -Q  2>&1- | grep -iE 'error' | awk '{print $3}' | sed "s/'//g"
+

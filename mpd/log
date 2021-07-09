@@ -505,3 +505,860 @@ Jan 22 23:02 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
 Jan 22 23:07 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
 Jan 22 23:16 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
 Jan 22 23:47 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:03 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:03 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:03 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:03 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:03 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:03 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3': No such file or directory
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Dance no. 5.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Dance no. 5.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Hungarian Rhapsody No. 2.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Hungarian Rhapsody No. 2.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3; Failed to open '/home/rohit/Music/Maria Callas - L'amour est un oiseau rebelle.mp3': No such file or directory
+Jul 01 20:04 : player: played "Maria Callas - L'amour est un oiseau rebelle.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mozart - Lacrimosa.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mozart - Lacrimosa.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Offenbach - Can Can Music.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Offenbach - Can Can Music.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3; Failed to open '/home/rohit/Music/Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3': No such file or directory
+Jul 01 20:04 : player: played "Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tarantella Neapoletana.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tarantella Neapoletana.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3; Failed to open '/home/rohit/Music/Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3': No such file or directory
+Jul 01 20:04 : player: played "Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/007 James Bond Theme.mp3; Failed to open '/home/rohit/Music/007 James Bond Theme.mp3': No such file or directory
+Jul 01 20:04 : player: played "007 James Bond Theme.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:04 : exception: Failed to decode /home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3; Failed to open '/home/rohit/Music/Better Call Saul/Al Compás De Mi Caballo.mp3': No such file or directory
+Jul 01 20:04 : player: played "Better Call Saul/Al Compás De Mi Caballo.mp3"
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : update: removing Better Call Saul/Vivaldi Concerto for Strings and Continuo in G major, RV 151 Concerto alla Rustica - 1. Prest.mp3
+Jul 01 20:05 : update: removing Better Call Saul/The Ink Spots - Address Unknown.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Shook - Milestones.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Find Out What's Happening.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Dennis Coffey-Scorpio.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Boulevard of Broken Dreams.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Big Rock Candy Mountain BURL IVES.mp3
+Jul 01 20:05 : update: removing Better Call Saul/Al Compás De Mi Caballo.mp3
+Jul 01 20:05 : update: removing Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(In the Hall of the Mountain King).mp3
+Jul 01 20:05 : update: removing Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Anitra's Dance).mp3
+Jul 01 20:05 : update: removing Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Death of Ase).mp3
+Jul 01 20:05 : update: removing Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz(Morning Mood).mp3
+Jul 01 20:05 : update: removing Moonlight sonnata III .mp3
+Jul 01 20:05 : update: removing Moonlight Sonnata II.mp3
+Jul 01 20:05 : update: removing Moonlight Sonnata I.mp3
+Jul 01 20:05 : update: removing Wishing Ain't No Sin (heard in trailer for Better Call SaulAMC).mp3
+Jul 01 20:05 : update: removing Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg.ogv
+Jul 01 20:05 : update: removing Putih Abu-Abu - Bagaikan Langit (Official Music Video).mp3
+Jul 01 20:05 : update: removing Pulp Fiction Misirlou.mp3
+Jul 01 20:05 : update: removing No Time for Caution.mp3
+Jul 01 20:05 : update: removing Maria Callas - L'amour est un oiseau rebelle.mp3
+Jul 01 20:05 : update: removing Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3
+Jul 01 20:05 : update: removing Edvard Grieg - Peer Gynt Suite No. 1 Op. 46 conducted by Maciej Tomasiewicz.mp3
+Jul 01 20:05 : update: removing Carmen L'amour est un oiseau rebelle (Elina Garanca).mp3
+Jul 01 20:05 : update: removing 007 James Bond Theme.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Final Waltz and Apotheosis.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Sugar Plum Fairy.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Pas De Duex.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Waltz of the Flowers.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Mother Cigogne.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Dance of the Mirlitions.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Trepak (Russian Dance).mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Tea Chinese Dance.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Coffee Arab Dance.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Chocolate Spanish Dance.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/In the Pine Forest.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Tempo Di Grandfather.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Children Gallop and the Entry of the Parents.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/March.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/The Decoration of the Christmas Tree.mp3
+Jul 01 20:05 : update: removing Tchaikovsky - Nutcraker Suite/Overture.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-12-08 128 SUSE  Rancher Labs System76 AMD Laptop Linux on Apple M1 Mac Project.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-11-30 Linus Torvalds on Apple M1 Mac Blender PulseAudio 25 Years of GIMP  This Week in Linux 127.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-11-22 youtube-dl Restored by GitHub KDE PinePhone Kali Linux SUSE IPO  This Week in Linux 126.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-11-15 New KDE Plasma Theme In 5.21 GNOME Extensions Rebooted GIMP 2.99.2  This Week in Linux 125.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-11-09 Raspberry Pi 400 LXQt Youtube-dl Update Dell Privacy Drivers HBO Max  This Week in Linux 124.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-11-02 Fedora 33 DMCA Takedown on youtube-dl Pro1 X X Server Being Abandoned  This Week in Linux 123.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-10-25 Ubuntu 20.10 System76’s Thelio Mega CUPS Forked from Apple  This Week in Linux 122.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-10-18 This Week in Linux 121 Linux 5.9 KDE Plasma 5.20 LibreOffice Pine64 & More.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-10-12 This Week in Linux 120 Oracle vs Google Nextcloud 20 Python 3.9 Better Snaps Theme Support.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-10-04 This Week in Linux 119 Fedora 33 Beta OBS Studio 26 Purism’s AweSIM Cellular Service.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-09-28 This Week in Linux 118 Lenovo’s New Ubuntu Laptops GNOME 40 Puppy Linux 9.5 Firefox 81 UBports.mp3
+Jul 01 20:05 : update: removing Podcasts/This Week In Linux/2020-09-21 This Week in Linux 117 GNOME 3.38 Xfce 4.16 NVIDIA Buys ARM Firefox Send Shutdown PinePhone.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-12-10 Why monkeys (and humans) are wired for fairness  Sarah Brosnan.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-27 What almost dying taught me about living  Suleika Jaouad.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-26 What happens in your brain when you taste food  Camilla Arndal Andersen.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-20 How COVID-19 human challenge trials work -- and why I volunteered  Sophie Rose.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-19 How quinoa can help combat hunger and malnutrition  Cedric Habiyaremye.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-16 Indias historic opportunity to industrialize using clean energy  Varun Sivaram.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-11-05 Lessons on leaving the world better than you found it  Sophie Howe.mp3
+Jul 01 20:05 : update: removing Podcasts/Ted Talks Daily/2020-08-13 When is a pandemic over  Alex Rosenthal.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-12-03 14 Looking at CrowdSec with Philippe Humeau.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-11-19 13 Cloud Native Spring in Action.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-11-12 12 Git to the Ops.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-10-29 11 Managing Linux Desktops At Scale with Noah Chelliah.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-10-15 10 Open Source Workstations.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-10-08 9 Introduction to Storage Technologies.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-10-01 8 Ask Me Anything.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-09-17 7 Looking at GitLab.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-09-03 6 Elements of Cloud Native.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-08-20 5 Cloud Management Tools.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-07-09 2 Getting Started with Open Source.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-08-06 4 Careers in Technology.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-07-23 3 DevOps and Automation.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-06-25 1 What is Enterprise Open Source.mp3
+Jul 01 20:05 : update: removing Podcasts/Sudo Show/2020-06-17 0 Sudo Show - New DLN Podcast Coming June 25th!.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-12-08 - 80 The Whistleblower.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-24 - 79 Dark Basin.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-11-10 - 78 Nerdcore.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-27 - 77 Olympic Destroyer.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-10-13 - 76 Knaves Out.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-29 - 75 Compromised Comms.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-15 - 74 Mikko.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-09-01 - 73 WannaCry.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-18 - 72 Bangladesh Bank Heist.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-08-04 - 71 FDFF.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-21 - 70 Ghost Exodus.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-07-07 - 69 Human Hacker.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-23 - 68 Triton.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-06-09 - 67 The Big House.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-26 - 66 freakyclown.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-05-12 - 65 PSYOP.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-28 - 64 The Athens Shadow Games.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-04-14 - 63 w0rmer.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-31 - 62 Cam.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-17 - 61 Samy.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-03-03 - 60 dawgyg.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-02-18 - 59 The Courthouse.mp3
+Jul 01 20:05 : update: removing Podcasts/Darknet Diaries/Darknet Diaries - 2020-02-04 - 58 OxyMonster.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-08-11 What Kind Of Coder Will You Become.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-03-27 Days of Future_Open.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-10-13 Jerry Lawson The Engineer Who Changed the Game.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-09-29 Command Line Heroes Meet the Inventors.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-12-08 Dr. Clarence Ellis The Developer Who Helped Us Collaborate.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-11-24 Dr. Marc Hannah The Computer Scientist Who Brought Worlds to Life.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-11-10 Mark Dean The Inventor Who Made the Computer Personal.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-10-27 Dr. Gladys West The Mathematician Who Reshaped Our World.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-07-28 Where Coders Code.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-07-14 Becoming a Coder.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-06-30 Introducing Season 5 of Command Line Heroes.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-07-23 Creating JavaScript.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-06-25 Python’s Tale.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-12-18 Open Curiosity NASA Mars and Beyond.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-12-17 Bonus Developer Advocacy Roundtable.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-12-04 At Your Serverless Development Empowerment with Control.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-11-20 The Data Explosion Processing Storage and the Cloud.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-11-06 The One About DevSecOps Evolving Security and Reliability.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-10-23 Fail Better Embracing Failure.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-10-09 Ready to Commit Contributing to Open Source.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-09-24 Hello World Programming Languages for the Polyglot Developer.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-09-11 Press Start How Gaming Shapes Development.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-08-28 Introducing Season 2 of Command Line Heroes.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-03-13 Crack the Cloud_Open.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-02-27 The Containers_Derby.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-02-13 DevOps_Tear Down That Wall.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-01-30 The Agile_Revolution.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-01-16 OS Wars_part 2 Rise of Linux.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2018-01-16 OS Wars_part 1.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2017-12-01 Preview_CLH.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-05-04 One More Thing with Steve Wozniak.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-04-21 Consoles The Dreamcasts Life After Death.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-04-07 Open Source Hardware Makers Unite.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-03-24 Smarter Phones Journey to the Palm-Sized Computer.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-03-10 Floppies The Disks that Changed the World.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-02-25 Personal Computers The Altair 8800 and the Dawn of a Revolution.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-02-11 Mainframes The GE 225 and the Birth of BASIC.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-01-28 Minicomputers The Soul of an Old Machine.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2020-01-14 Introducing Season 4 of Command Line Heroes.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-10-01 The C Change.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-09-17 Talking to Machines LISP and the Origins of A.I..mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-09-03 Heroes in a Bash Shell.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-08-20 The Infrastructure Effect COBOL and Go.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-08-06 Diving for Perl.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-07-09 Learning the BASICs.mp3
+Jul 01 20:05 : update: removing Podcasts/Command Line Heros/2019-06-11 Introducing Season 3 of Command Line Heroes.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Chris Lohr - Breaking Bad Remix seasons 3-5.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Uyiril Thodum.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Cherathukal .mp3
+Jul 01 20:05 : update: removing Miscellaneous/安子与九妹 布谷鸟 CUCKOO.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Анна Ефремова - Скованные одной цепью (ost Beholder film) [Перезалив].mp3
+Jul 01 20:05 : update: removing Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Vicetone_Tony_Igy-Astronomia.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Valentina Lisitsa plays Liszt's Hungarian Rhapsody No. 2.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Turkish March Mozart - Rondo Alla Turca.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Tarantella Neapoletana.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Star Wars- The Imperial March (Darth Vader's Theme).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Something Stupid (From Better Call Saul)(2).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Shook - Milestones(2).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Scorpio.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Ra Ra RasPutin animation 720 1080 HD Version slocband paceaudio.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Offenbach - Can Can Music.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Nuxito x Dú Moreno - Mana Fina [2019].mp3
+Jul 01 20:05 : update: removing Miscellaneous/Negro Y Azul The Ballad of Heisenberg (From Breaking Bad TV Series) (Cover Audio Video).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Mozart - Lacrimosa.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Mission Impossible Theme.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Mischa Maisky plays Bach Cello Suite No.1 in G (full).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Marconi Union - Weightless.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Loituma - Levan Polkka.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3
+Jul 01 20:05 : update: removing Miscellaneous/lalo salamanca being chaotic for 3 minutes.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3
+Jul 01 20:05 : update: removing Miscellaneous/James Bond Theme.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Il barone rosso (From La bellissima estate).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Hungarian Rhapsody No. 2.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Hungarian Dance no. 5.mp3
+Jul 01 20:05 : update: removing Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Edvard Grieg - Peer Gynt - Suite No. 1, Op. 46 - I. Morning Mood.mp3
+Jul 01 20:05 : update: removing Miscellaneous/De Mi Caballo.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Cornfield Chase.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Buttercup.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Breaking Bad Main Title Theme (Extended).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Boney M. - Rasputin (Sopot Festival 1979) (VOD).mp3
+Jul 01 20:05 : update: removing Miscellaneous/Big Rock Candy Mountain BURL IVES.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Bella Ciao - ORIGINALE.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Bach, Cello suite Nº 1 (completa) Música Clásica.mp3
+Jul 01 20:05 : update: removing Miscellaneous/Also Sprach Zarathustra, Op. 30 - Strauss.mp3
+Jul 01 20:05 : update: removing Miscellaneous/03 New Philharmonia Orchestra - William Tell Overture - Classical Music Masterpieces, Vol. XXVI(1).mp3
+Jul 01 20:05 : update: removing Miscellaneous/03 New Philharmonia Orchestra - William Tell Overture - Classical Music Masterpieces, Vol. XXVI.mp3
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:05 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:08 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : update: added AudioBook/Ashoka/4.mp3
+Jul 01 20:12 : update: added AudioBook/Ashoka/3.mp3
+Jul 01 20:12 : update: added AudioBook/Ashoka/5.mp3
+Jul 01 20:12 : update: added AudioBook/Ashoka/6.mp3
+Jul 01 20:12 : update: added AudioBook/Ashoka/2.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 20:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 20:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 20:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Jul 01 20:12 : update: added AudioBook/Ashoka/1.mp3
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 20:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 20:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 20:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/18.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/07.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/12.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/14.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/09.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/08.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/11.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/16.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/06.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/03.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/02.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/13.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/15.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/05.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/04.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/01.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/10.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/19.mp3
+Jul 01 20:12 : update: added AudioBook/HarryPotterHalfBloodPrince/17.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/07.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/06.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/03.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/02.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/05.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/04.mp3
+Jul 01 20:12 : update: added AudioBook/Dooku-JediLost/01.mp3
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:12 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:13 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:13 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:13 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:29 : player: played "AudioBook/Ashoka/1.mp3"
+Jul 01 20:30 : exception: Failed to convert for "Visulizer" (fifo); PCM conversion from f to 8 is not implemented
+Jul 01 20:31 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:31 : player: played "AudioBook/Ashoka/1.mp3"
+Jul 01 20:33 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:34 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:34 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 20:34 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 21:18 : player: played "AudioBook/Ashoka/6.mp3"
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : player: played "AudioBook/Ashoka/6.mp3"
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 21:18 : exception: Not playing
+Jul 01 22:41 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 22:42 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 22:42 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 22:42 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 22:42 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 22:42 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 22:42 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Jul 01 22:42 : update: added AudioBook/Niccolò Machiavelli - The Prince/3.mp3
+Jul 01 22:42 : update: added AudioBook/Niccolò Machiavelli - The Prince/2.mp3
+Jul 01 22:42 : update: added AudioBook/Niccolò Machiavelli - The Prince/1.mp3
+Jul 01 22:43 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:43 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:43 : player: played "AudioBook/Ashoka/1.mp3"
+Jul 01 22:43 : player: played "AudioBook/Ashoka/1.mp3"
+Jul 01 22:43 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:43 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:43 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:44 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 22:51 : player: played "AudioBook/Ashoka/1.mp3"
+Jul 01 22:53 : player: played "AudioBook/Ashoka/2.mp3"
+Jul 01 23:10 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:10 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 23:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 23:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 23:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Note: Illegal Audio-MPEG-Header 0x00000000 at offset 195.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+Jul 01 23:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jul 01 23:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jul 01 23:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1222.
+Jul 01 23:13 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:14 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:14 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:14 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:14 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 01 23:14 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 02 00:10 : player: played "AudioBook/Ashoka/2.mp3"
+Jul 02 11:00 : player: played "AudioBook/Ashoka/2.mp3"
+Jul 03 14:30 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:19 : player: played "AudioBook/Ashoka/2.mp3"
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:45 : exception: Failed to open /home/rohit/.config/mpd/playlists: No such file or directory
+Jul 03 15:48 : player: played "AudioBook/Ashoka/2.mp3"
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Jul 03 18:26 : exception: Failed to open "HDA Intel PCH, ALC3204 Analog" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Jul 03 18:26 : exception: Failed to open "HDA Intel PCH, ALC3204 Analog" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Jul 03 18:26 : exception: Failed to open "HDA Intel PCH, ALC3204 Analog" (alsa); Failed to open ALSA device "default": Device or resource busy
+Jul 04 00:11 : player: played "AudioBook/Ashoka/3.mp3"
+Jul 09 00:20 : player: played "AudioBook/Ashoka/3.mp3"

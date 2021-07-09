@@ -1,39 +1,21 @@
-sw_volume: 38
+sw_volume: 22
 audio_device_state:1:HDA Intel PCH, ALC3204 Analog
 audio_device_state:1:Visulizer
 state: pause
-current: 21
-time: 848.903000
+current: 2
+time: 1961.875000
 random: 0
-repeat: 0
+repeat: 1
 single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Miscellaneous/Beethoven, Symphony 5, 1st movement.mp3
-1:Miscellaneous/Beethoven, Symphony 9, 1st movement (complete), Allegro ma non troppo, Philharmonia Baroque.mp3
-2:Miscellaneous/Beethoven, Symphony 9, 2nd movement (complete), Molto vivace, Philharmonia Baroque.mp3
-3:Miscellaneous/Beethoven, Symphony 9, 3rd movement (complete), Adagio molto e cantabile, Philharmonia Baroque.mp3
-4:Miscellaneous/Beethoven, Symphony 9, 4th movement (complete) Ode to Joy, Presto, Philharmonia Baroque.mp3
-5:Miscellaneous/Carl Orff - O FortunaCarmina Burana.mp3
-6:Miscellaneous/Chopin - Ballade No. 1 in G Minor (1M special).mp3
-7:Miscellaneous/Eine Kleine Nachtmusik - Mozart.mp3
-8:Miscellaneous/En Er Mundo España Cañi Morante De La Puebla(1).mp3
-9:Miscellaneous/Hungarian Dance no. 5.mp3
-10:Miscellaneous/Hungarian Rhapsody No. 2.mp3
-11:Miscellaneous/Jacques Offenbach - Orphée aux enfers.mp3
-12:Miscellaneous/Johann Strauss II - Die Fledermaus Overture.mp3
-13:Maria Callas - L'amour est un oiseau rebelle.mp3
-14:Miscellaneous/Liebestraum Nr. 3 in A-Flat Major, S. 5413.mp3
-15:Miscellaneous/Mozart - Lacrimosa.mp3
-16:Miscellaneous/Mussorgsky - Night On Bald Mountain.mp3
-17:Miscellaneous/Offenbach - Can Can Music.mp3
-18:Figaro Figaro Figaro! the Barber of Seville Largo Al Factotum.mp3
-19:Miscellaneous/Requiem 1 Giuseppe Verdi - Dies irae, Libera me.mp3
-20:Miscellaneous/Tarantella Neapoletana.mp3
-21:Miscellaneous/Tchaikovsky - 1812 Overture (Full with Cannons)(1).mp3
-22:Miscellaneous/Tchaikovsky Marche slave, Op.31, TH 45.mp3
-23:Miscellaneous/Vivaldi - Concerto for strings and continuo in G Major (RV 151) 'Alla Rustica'.mp3
+0:AudioBook/Ashoka/1.mp3
+1:AudioBook/Ashoka/2.mp3
+2:AudioBook/Ashoka/3.mp3
+3:AudioBook/Ashoka/4.mp3
+4:AudioBook/Ashoka/5.mp3
+5:AudioBook/Ashoka/6.mp3
 playlist_end

@@ -1,0 +1,6 @@
+#! /bin/sh
+
+for (( ; ; )) 
+do
+    pactl set-source-volume @DEFAULT_SOURCE@ 0
+done

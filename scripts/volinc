@@ -1,0 +1,21 @@
+#! /bin/bash
+
+#pactl set-sink-mute @DEFAULT_SINK@ no 
+#pactl set-sink-volume @DEFAULT_SINK@ +5%
+#
+# use awk grep to find the volume
+
+#ps h -ao s,pid,ppid,comm
+
+
+volume=$(amixer -c 0 sset PCM 5+ | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+
+proc=$(ps h -eo s,pid,ppid,comm |  grep 'statusbar')
+pid=$(echo -n $proc | awk '{print $2}')
+state=$(echo -n $proc | awk '{print $1}')
+if [ $state = "S" ]; then 
+   ps h -eo s,pid,ppid,comm |  awk -v a="$pid" '{ if ($3 == a) print $2}' | xargs kill
+fi
+
+dunstctl close
+notify-send "VOLUME: ${volume}" -t 700
