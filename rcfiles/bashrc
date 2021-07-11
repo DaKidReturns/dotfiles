@@ -32,6 +32,8 @@ removepkg() { command doas pacman -Rns "${@}"; }
 update() { command doas pacman -Syu "${@}"; }
 startmpd (){ command doas mpd ~/.config/mpd/mpd.conf; }
 get_not_installed(){ command pacman -Si $1 | grep -iE 'Depends\ On' | sed 's/Depends\ On\ \ \ \ \ \ ://' | xargs pacman -Q  2>&1- | grep -iE 'error' | awk '{print $3}' | sed "s/'//g" ; }
+encrypt() { command gpg -c --s2k-cipher-algo TWOFISH --s2k-digest-algo SHA256 "${@}" ; }
+decrypt() { command gpg --output "${@}.txt" -d "${@}" ; }
 
 ## SSH agent
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
