@@ -1,0 +1,3 @@
+#echo 'hahahaha' > ~/done
+#notify-send "So you have chosen death"
+#shutdown +2

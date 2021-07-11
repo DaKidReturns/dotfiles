@@ -16,3 +16,4 @@ else
     wln_stat="down"
 fi
 
+echo "ETHERNET : ${eth_stat} WLAN : ${wln_stat}"

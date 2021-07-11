@@ -1,3 +1,0 @@
-#! /bin/bash
-proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1 "  " $2}')" 
-printf "%s\n" "${proce}"

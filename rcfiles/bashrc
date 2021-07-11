@@ -6,7 +6,6 @@
 #[[ $- != *i* ]] && return
 
 
-
 alias ls='ls --color=auto'
 alias sudo="doas"
 alias astcfg="nvim ~/.config/dwm/scripts/autostart"
@@ -32,6 +31,7 @@ installpkg() { command doas pacman -S "${@}"; }
 removepkg() { command doas pacman -Rns "${@}"; }
 update() { command doas pacman -Syu "${@}"; }
 startmpd (){ command doas mpd ~/.config/mpd/mpd.conf; }
+get_not_installed(){ command pacman -Si $1 | grep -iE 'Depends\ On' | sed 's/Depends\ On\ \ \ \ \ \ ://' | xargs pacman -Q  2>&1- | grep -iE 'error' | awk '{print $3}' | sed "s/'//g" ; }
 
 ## SSH agent
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then

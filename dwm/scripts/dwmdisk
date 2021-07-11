@@ -1,6 +1,0 @@
-#! /bin/bash
-
-hdd="$(df -h | awk '/^\/dev\/mapper\/volgroup0-home--arch/ {print $3 "/" $4}')"
-icon="disk:"
-
-printf "%s %s \n" "$icon" "$hdd"

@@ -5,7 +5,8 @@ baticon="Battery"
 procicon="Process:"
 tempicon="Temp: "
 timeicon="Time:"
-delim="|"
+dateicon="Date:"
+#delim="|"
 
 while : ; do
     #Home Disk Space
@@ -20,37 +21,41 @@ while : ; do
         bat_stat="$(cat /sys/class/power_supply/BAT0/status)"
     done
 
-    #Most memory intense process
-    proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1" "$2}')%" 
-
-    #Temprature
-    temp="$(sensors | awk '/^CPU/ {print $2}' | sed 's/+// ')"
-
-    #time and date
-    time="$(date|awk '{print $4}'|sed 's/...$//')"
-    dat="$(date|awk '{print $1 " " $3 " " $2 " " $7}')"
-
-    #RAM usage
-    ram="$(free -m | grep Mem | awk '{print $3 "MB/" $2"MB"}')"
-
-    #Volume
-    volume=$(amixer sget PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}') 
-
-    text=$(printf "[Disk:%s] [%s:%s] [Volume:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s %s]" "$hdd" "$bat_stat" "$bat%" "$volume" "$ram" "$proce" "$temp" "$time" "$dat")
-     
-    xsetroot -name "${text}"
-
     if [ $bat -le 10 ] && [ $bat_stat = 'Discharging' ] ; then
         # Critical notification, timeout after 11 seconds
         notify-send -u critical "Battery Low" "$bat% remaining" -t 11000
+        # script to run when the battery is low.
         ~/.config/dwm/scripts/crit_run
     fi
     if { [ $bat -ge 98 ] && { [ $bat_stat = 'Charging' ] || [ $bat_stat = 'Full' ] ;} ; } then
         notify-send -u normal "Sufficiently Charged" "$bat% remaining" -t 11000
     fi
 
+    #Most memory intense process
+    proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1" "$2}')%" 
+
+    #Temprature
+    temp="$(sensors | awk '/^CPU/ {print $2}' | sed 's/+// ')" # get the temprature ad ignore the +
+
+    #time and date
+    time="$(date +%I:%M\ %p)"
+    dat="$(date +%-d-%-m-%Y\ %A)"
+
+    #RAM usage
+    ram="$(free -m | grep Mem | awk '{print $3 "MB/" $2"MB"}')"
+
+    #Volume
+    volume=$(amixer sget PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}') 
+    
+    text=$(printf "[Disk:%s] [%s:%s] [Volume:%s] [RAM:%s] [Proc:%s] [Temp:%s] [Time:%s] [Date:%s]" "$hdd" "$bat_stat" "$bat%" "$volume" "$ram" "$proce" "$temp" "$time" "$dat")
+    xsetroot -name "${text}"
+
     #Sleep for 12 seconds
     sleep 12
 
 done
 
+# Unnecessary scripts for reference only
+#   time="$(date|awk '{print $4}'|sed 's/...$//')"
+#   dat="$(date|awk '{print $1 " " $3 " " $2 " " $7}')"
+ 
