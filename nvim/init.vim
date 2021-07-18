@@ -76,6 +76,7 @@ nnoremap <leader>wn :vertical resize 100<CR>
 nnoremap <silent> <leader>. :vertical resize +5<CR>
 nnoremap <silent> <leader>, :vertical resize -5<CR>
 nnoremap <silent> <C-b> :nohlsearch<CR>
-nnoremap <C-v> "+P
+inoremap <C-v> <ESC>"+pi
+nnoremap <C-v> "+pi
 vnoremap <C-c> "+y
 "}}}

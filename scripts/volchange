@@ -10,13 +10,13 @@ then
 fi
 
 if [ $1 = 'toggle' ]; then
-    volume=$(amixer -c 0 get PCM | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+    volume=$(amixer -c 0 get Master | grep -iE 'Mono:\ PlayBack' | awk -F'[][]' '{ print $2}')
     if [ $volume != '0%' ]; then
-        amixer -qc 0 set PCM 0%
+        amixer -qc 0 set Master 0%
         dunstctl close
         notify-send "Muted" -t 700
     else
-        amixer -qc 0 set PCM 180
+        amixer -qc 0 set Master 70
         dunstctl close
         notify-send "un-Muted" -t 700
     fi
@@ -33,7 +33,7 @@ else
         delta_val=$delta_val"-"
     fi  
 
-    volume=$(amixer -c 0 sset PCM ${delta_val} | grep -iE 'Front\ Left:' | awk -F'[][]' '{ print $2}')
+    volume=$(amixer -c 0 sset Master ${delta_val} | grep -iE 'Mono:\ PlayBack' | awk -F'[][]' '{ print $2}')
     dunstctl close
     notify-send "VOLUME: ${volume}" -t 700
 fi

@@ -574,7 +574,7 @@ mouse:
     # URL launcher
     # When set to `None`, URL launching will be disabled completely.
     launcher:
-      program: brave
+      program: firefox
     #  args: []
 
 font:

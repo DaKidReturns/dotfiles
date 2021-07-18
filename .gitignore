@@ -1,9 +1,10 @@
 *.cpy
 *.bak
 *.log
-./mpd/log
-./mpd/state
-./mpd/database
+mpd/log
+mpd/state
+mpd/database
+mpd/pid
 
 .vim/
 Atom/

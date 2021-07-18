@@ -11,8 +11,12 @@ alias sudo="doas"
 alias astcfg="nvim ~/.config/dwm/scripts/autostart"
 alias dwmconfig="nvim ~/Programs/dwm-6.2/config.h"
 alias grep="grep --color"
+alias ll='ls -l'
+alias la='ls -a'
+alias lla='ls -al'
 
 export PATH=$PATH:$HOME/.local/bin
+export GOPATH=${HOME}/.local/lib/go
 export HISTCONTROL=ignoredups
 export HISTFILE=/home/rohit/.bash_history
 export HISTFILESIZE=2000
@@ -30,7 +34,7 @@ searchpkg() { command pacman -Ss "${@}"; }
 installpkg() { command doas pacman -S "${@}"; }
 removepkg() { command doas pacman -Rns "${@}"; }
 update() { command doas pacman -Syu "${@}"; }
-startmpd (){ command doas mpd ~/.config/mpd/mpd.conf; }
+startmpd (){ command doas mpd /home/rohit/.config/mpd/mpd.conf "${@}"; }
 get_not_installed(){ command pacman -Si $1 | grep -iE 'Depends\ On' | sed 's/Depends\ On\ \ \ \ \ \ ://' | xargs pacman -Q  2>&1- | grep -iE 'error' | awk '{print $3}' | sed "s/'//g" ; }
 encrypt() { command gpg -c --s2k-cipher-algo TWOFISH --s2k-digest-algo SHA256 "${@}" ; }
 decrypt() { command gpg --output "${@}.txt" -d "${@}" ; }
@@ -39,6 +43,7 @@ decrypt() { command gpg --output "${@}.txt" -d "${@}" ; }
 if ! pgrep -u "$USER" ssh-agent > /dev/null; then
         ssh-agent  > "$XDG_RUNTIME_DIR/ssh-agent.env"
 fi
+
 if [[ ! "$SSH_AUTH_SOCK" ]]; then
     source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
     ssh-add ~/.ssh/github
@@ -71,7 +76,7 @@ __prompt_command ()
 }
 
 PROMPT_COMMAND=__prompt_command
-
+export PS2=""
 
 if [[ -z "${DISPLAY}" ]] && [[ "${XDG_VTNR}" -eq 1 ]]; then
     exec startx
