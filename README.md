@@ -20,11 +20,11 @@ This repository consists of the dotfiles I use for desktop setup
 13. Statusbar: Default Dwm statusbar [config][statusbar]
 14. Statusbar Icons: [Font Awesome 5][FontAwesome5]
 
-### Screenshot1(old):  
+### Screenshot1:  
 ![Screenshot with items](./sample_screenshots/screenshot_1.png)  
 
 ### Screenshot2:  
-![Screenshot without items](./sample_screenshots/screenshot_1_without_items.png)
+![Screenshot without items](./sample_screenshots/screenshot_1_without_items.jpg)
 
 ### Screenshot3:  
 ![Screenshot of rofi](./sample_screenshots/screenshot_1_rofi.png)
