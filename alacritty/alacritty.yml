@@ -14,8 +14,8 @@
 
 window:
   padding: 
-    x: 5
-    y: 5
+    x: 2
+    y: 2
   # Window dimensions (changes require restart)
   #
   # Specified in number of columns/lines, not pixels.
@@ -579,15 +579,15 @@ mouse:
 
 font:
   normal:
-    family: JetBrainsMono
+    family: Sarasa Term Slab J
     style: Regular
   bold:
-    family: JetBrainsMono 
+    family: Sarasa Term Slab J 
     style: SemiBold
   italic:
-    family: JetBrainsMono 
+    family: Sarasa Term Slab J
     style: Italic
-  size: 8
+  size: 9
 
 schemes:
 # Colors (Gruvbox light)

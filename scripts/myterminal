@@ -1,1 +1,4 @@
-st
+#! /bin/bash
+#alacritty
+st&
+disown -a

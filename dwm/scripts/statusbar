@@ -1,12 +1,26 @@
 #! /bin/bash
 
+# Colors
+red="\e[0;91m"
+blue="\e[0;94m"
+expand_bg="\e[K"
+blue_bg="\e[0;104m${expand_bg}"
+red_bg="\e[0;101m${expand_bg}"
+green_bg="\e[0;102m${expand_bg}"
+green="\e[0;92m"
+white="\e[0;97m"
+bold="\e[1m"
+uline="\e[4m"
+reset="\e[0m"
+
+#Icons
 diskicon="\uf233"
 #baticon="Battery"
-ramicon="\uf538"
+ramicon="\uf85a"
 procicon="\uf2db"
-tempicon="\uf2c9"
+tempicon="\uf8c7"
 timeicon="\uf017"
-dateicon="\uf783"
+dateicon="\uf5ed"
 #delim="|"
 
 while : ; do
@@ -62,7 +76,7 @@ while : ; do
     fi
 
     #Most memory intense process
-    proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1{print $1" "$2}')%" 
+    proce="$(ps axch -o cmd,%mem --sort=-%mem | awk 'NR==1' | sed 's/\ /\\/' | awk '{print $1 " " $2}' | sed 's/\\/\ /')%" 
 
     #Temprature
     temp="$(sensors | awk '/^CPU/ {print $2}' | sed 's/+// ')" # get the temprature ad ignore the +
@@ -76,14 +90,14 @@ while : ; do
     ram="$(free -m | grep Mem | awk '{printf " %d%", $3/$2*100}')"
 
     #Volume
-    volume=$(amixer sget Master | grep -iE 'Mono:\ Playback' | awk -F'[][]' '{ print $2}') 
+    volume=$(amixer sget Master | grep -iE 'Front\ Left:\ Playback' | awk -F'[][]' '{ print $2}') 
     
     # Disk, Battery, Volume, Ram, Process, Temp, Time, date
     text=$(printf "\
- [${diskicon}:%s] [${bat_stat}:%s]\
- [Volume:%s] [${ramicon}:%s]\
- [${procicon}:%s] [${tempicon}:%s]\
- [${timeicon}:%s] [${dateicon}:%s]"\
+  [ ${diskicon}:%s ] [ ${bat_stat}:%s ]\
+  [ Volume:%s ] [ ${ramicon}:%s ]\
+  [ ${procicon}:%s ] [ ${tempicon}:%s ]\
+  [ ${timeicon}:%s ] [ ${dateicon}:%s ]"\
  "$hdd" "$bat" "$volume" "$ram" "$proce" "$temp" "$time" "$date"\
  )
 
