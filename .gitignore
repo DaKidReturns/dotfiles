@@ -10,8 +10,10 @@ mpd/pid
 Atom/
 alacritty/
 Bitwarden/
+bspwm/
 Clementine/
 Electron/
+fish/
 GIMP/
 QtProject.conf
 Thunar/
@@ -25,7 +27,7 @@ fontconfig/
 gedit/
 ghostwriter/
 htop/
-i3/scripts/alternating_layouts.py
+i3/
 iptables/
 keepassxc/
 libaccounts-glib/
@@ -41,6 +43,7 @@ nomacs/
 nvim/.netrwhist
 pavucontrol.ini
 pcmanfm/
+polybar/
 pulse/
 qpdfview/
 rofi/
