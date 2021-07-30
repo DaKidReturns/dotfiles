@@ -59,7 +59,7 @@ let g:mkdp_filetypes = ['markdown']
 colorscheme gruvbox
 set background=dark
 
-let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
+"let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
 let g:ctrlp_use_caching = 0
 
 let mapleader = " "
@@ -76,8 +76,7 @@ nnoremap <leader>k :wincmd k<CR>
 nnoremap <leader>l :wincmd l<CR>
 nnoremap <leader>u :UndotreeShow<CR>
 nnoremap <leader>up :UndotreeFocus<CR>
-"nnoremap <leader>pv :wincmd v<bar> :Ex<bar> :vertical resize 30<bar> :wincmd j<CR>
-"nnoremap <leader> :NERDTree<CR>
+"nnoremap <leader>pv :wincmd v<bar> :Ex<bar> :vertical resize 30<bar> :wincmd j<CR> " Don't need this hack because i have nerd tree
 nnoremap <silent><leader>n :NERDTreeToggle<CR>
 nnoremap <silent><leader>f :NERDTreeFind<CR>
 nnoremap <leader>wm :vertical resize 30<CR>
@@ -88,4 +87,5 @@ nnoremap <silent> <C-b> :nohlsearch<CR>
 inoremap <C-v> <ESC>"+pa
 nnoremap <C-v> "+p
 vnoremap <C-c> "+y
+vnoremap <C-x> "+d
 "}}}

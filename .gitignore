@@ -8,6 +8,7 @@ mpd/pid
 
 .vim/
 Atom/
+alacritty/
 Bitwarden/
 Clementine/
 Electron/
@@ -42,6 +43,8 @@ pavucontrol.ini
 pcmanfm/
 pulse/
 qpdfview/
+rofi/
+sample_screenshots/old
 session/
 sway/
 systemd/user/default.target.wants/mpd.service

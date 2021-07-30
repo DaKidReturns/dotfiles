@@ -12,7 +12,7 @@ alias diff="diff --color=always"
 alias less="less -R"
 alias sudo="doas"
 alias astcfg="nvim ~/.config/dwm/scripts/autostart"
-alias dwmconfig="nvim ~/Programs/dwm-6.2/config.h"
+alias dwmconfig="nvim ~/Programs/dwm/config.h"
 alias nvimconfig="nvim /home/rohit/.config/nvim/init.vim"
 alias ll='ls -l'
 alias la='ls -a'

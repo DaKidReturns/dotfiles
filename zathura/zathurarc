@@ -1,8 +1,70 @@
-#set the page padding
-set page-padding 2
+### set the page padding
+set page-padding 1
+
+
+### n - completion items
+set n-completion-items 20
+
+### Bg and fg color for command line completion entries
+set completion-bg "#282828"
+set completion-fg "#dddddd"
+
+#completion-highlight-bg
+#completion-highlight-fg
+
+### Bg and fg of command line completion group elemts
+set completion-group-bg "#000000"
+set completion-group-fg "#dedede"
+
+### command that prepended to any command to run with exec
+#set exec-command ""
+
+### shows hidden gui elements (s)tatusbar (h)orizontal scrollbar (v)ertical scrollbar (c)ommand line
+# set guioptions "shv"
+
+### Font for gui
+#set font "monospace normal 9 "
+
+### BG and FG for the input bar
+set inputbar-bg "#282828"
+#set inputbar-fg "9FBC00"
+
+### The backgroud color for a notification
+#set notification-bg           "#FFFFFF"
+#set notification-fg           "#000000"
+#set notification-warning-bg   "#FFFFFF"
+#set notification-warning-fg   "#FFF712"
+#set notification-error-bg     "#FFFFFF"
+#set notification-error-fg     "#FF1212"
+
+### Foreground color for a tab
+#set tabbar-fg "#FFFFFF"
+#set tabbar-bg "#000000"
+#set tabbar-focus-fg "#9FBC00"
+#set tabbar-focus-bg "#000000"
+
+### Scrollbars
+#set show-scrollbars false
+#set show-h-scrollbar true
+#set show-v-scrollbar true
+
+### Status bars
+set statusbar-bg "282828"
+set statusbar-fg "#FFFFFF"
+#set statusbar-h-padding 8
+#set statusbar-v-padding 2
+
+### Window height and width on startup
+#set window-height 600
+#set window-width 800
+
+
+### Default BG and FG
+set default-bg "#282828"
+set default-fg "#DDDDDD"
 
 set render-loading-bg "#000000"
-set render-loading-fg "#FFFFFF"
+set render-loading-fg "#282828"
 
 set recolor-lightcolor "#282828"
 
@@ -11,5 +73,41 @@ set statusbar-home-tilde "true"
 set selection-clipboard clipboard
 set sandbox none
 
-#Press Alt-r for darkmode
+## WIP:
+#set adjust-open
+#set advance-pages-per-row
+#set incremental-search
+#set highlight-color
+#set highlight-active-color
+#set highlight-transparency
+#set page-padding
+#set page-cache-size
+#set pages-per-row
+#set first-page-column
+#set recolor
+#set recolor-keephue
+#set recolor-darkcolor
+#set recolor-lightcolor
+#set render-loading
+#set render-loading-bg
+#set render-loading-fg
+#set scroll-hstep
+#set scroll-step
+#set scroll-full-overlap
+#set scroll-wrap
+#set scroll-page-aware
+#set link-zoom
+#set link-hadjust
+#set search-hadjust
+#set window-title-basename
+#set window-title-page
+#set statusbar-basename
+#set zoom-center
+#set zoom-max
+#set zoom-min
+#set zoom-step
+#set selection-clipboard
+#set syntex-dbus-service
+
+### Press Alt-r for darkmode
 map A-r recolor
