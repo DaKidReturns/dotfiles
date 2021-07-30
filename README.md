@@ -8,7 +8,6 @@ I am planing to upload a wallpaper repo, where I will upload all the wallpaper w
 <br />
 
 ### Current setup:
----
 <br />
 
 |Sl.No| Item           |   Application used                     | Config                    | Remarks |  
@@ -31,7 +30,7 @@ I am planing to upload a wallpaper repo, where I will upload all the wallpaper w
 |16.| Font             | Terminal: [Sarasa Mono font][SarasaFontLink] Gtk: [Ubuntu][UbuntuFontLink]   | | Sarasa is bloat... I would recommend you manually download the ones you want rather than the whole package |
 
 ### Screenshot-Empty:  
-![Screenshot only wallpaper](./sample_screenshots/screenshot_empty.png)  
+![Screenshot only wallpaper](./sample_screenshots/screenshot_empty.jpg)  
 
 ### Screenshot-FakeBusy:  
 ![Screenshot with items](./sample_screenshots/screenshot_fake_busy.png)
