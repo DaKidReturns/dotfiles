@@ -1,6 +1,6 @@
 # Dot Files
 
-This repository consists of the dotfiles I use for my desktop setup. I haven't uploaded the the st configs (but I have included the colorscheme in the screenshot)
+This repository consists of the dotfiles I use for my desktop setup. The st and the dwm configs are in their respective repos and 
 the dmenu is the vanilla version without any patching.  
 
 I am planing to upload a wallpaper repo, where I will upload all the wallpaper with the links to source (if I can find it).

@@ -5,6 +5,7 @@ mpd/log
 mpd/state
 mpd/database
 mpd/pid
+mpd/sticker.sql
 
 .vim/
 Atom/
@@ -35,11 +36,13 @@ libfm/
 libreoffice/
 liferea/
 luakit/
+micro/
 midori/
 mimeapps.list
 ncmpcpp/bindings
 netsurf/
 nomacs/
+Notepadqq/
 nvim/.netrwhist
 pavucontrol.ini
 pcmanfm/
@@ -49,9 +52,11 @@ qpdfview/
 rofi/
 sample_screenshots/old
 session/
+statusbar_better_battery.diff
 sway/
 systemd/user/default.target.wants/mpd.service
 systemd/user/sockets.target.wants/
+systemd/
 tint2/
 transmission/
 user-dirs.dirs
