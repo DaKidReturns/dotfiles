@@ -22,8 +22,8 @@ export PATH=$PATH:$HOME/.local/bin
 export GOPATH=${HOME}/.local/lib/go
 export HISTCONTROL=ignoredups
 export HISTFILE=/home/rohit/.bash_history
-export HISTFILESIZE=2000
-export HISTSIZE=1000
+export HISTFILESIZE=20000
+export HISTSIZE=10000
 export EDITOR=nvim
 
 shopt -s checkwinsize
@@ -33,6 +33,8 @@ set -o noclobber
 rm() { command rm -i "${@}"; }
 cp() { command cp -i "${@}"; }
 mv() { command mv -i "${@}"; }
+mnt() { command udisksctl mount --block-device "${@}"; }
+umnt() { command udisksctl unmount --block-device "${@}"; }
 
 searchpkg() { command pacman -Ss "${@}"; }
 installpkg() { command doas pacman -S "${@}"; }
@@ -76,7 +78,7 @@ __prompt_command ()
     local BYel='\[\e[0;33m\]';
     local BBlu='\[\e[1;34m\]';
     local Pur='\[\e[0;35m\]';
-    PS1+="${Org}[${RCol} ${BBlu}\u${RCol}@${BYel}\h ${Pur}\w ${RCol} ${Org}]${RCol}";
+    PS1+="${Org}[${RCol} ${BBlu}\u${RCol}@${BYel}\h ${Pur}\w/ ${RCol} ${Org}]${RCol}";
     if [ $EXIT != 0 ]; then
         PS1+="\n${Red}:-( ${RCol}";
     else
